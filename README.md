@@ -10,7 +10,11 @@ https://github.com/tmux-plugins/
 
 # Plugins supportd by this conf file:
 https://github.com/tmux-plugins/tpm
+
 https://github.com/tmux-plugins/tmux-resurrect
+
 https://github.com/tmux-plugins/tmux-continuum
+
 https://github.com/tmux-plugins/tmux-logging
+
 https://github.com/tmux-plugins/tmux-yank
